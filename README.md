@@ -1,2 +1,2 @@
 # dockerzoo
-A collection of dockerfile
+A collection of Dockerfiles.
